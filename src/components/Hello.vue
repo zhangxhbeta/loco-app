@@ -1,6 +1,6 @@
 <template>
   <div>
-    <mt-header fixed title="标题">
+    <mt-header fixed title="Toast">
       <router-link to="/" slot="left">
         <mt-button icon="back">返回</mt-button>
       </router-link>
