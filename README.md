@@ -1,6 +1,10 @@
 # loco-app
 
-> A Vue.js project
+> 基于 mint-ui 搭建的一个 vue 项目
+
+初衷是朋友要做个简单做了个技术选型，用于移动纯 web 的 h5 app前后端分离开发，mint-ui 比较小巧简单
+
+如果是复杂的应用就倾向于采用 Framework7 这种，如果是面向微信就倾向于采用 weui 
 
 ## Build Setup
 
